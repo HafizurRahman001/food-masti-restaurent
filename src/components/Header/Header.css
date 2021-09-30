@@ -1,0 +1,9 @@
+.navStyle {
+  color: yellow;
+  text-decoration: none;
+  font-size: 21px;
+  margin-right: 10px;
+}
+.navStyle:hover {
+  color: white;
+}
